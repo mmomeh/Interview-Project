@@ -1,3 +1,3 @@
 <p align="center">
-  <h2 align="center">Blink Completion (blink.cmp)</h2>
+  <h2 align="center">Data Team Take Home</h2>
 </p>
