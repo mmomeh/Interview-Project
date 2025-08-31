@@ -10,6 +10,12 @@ Configurations, you made it to the secound round of the interview process. For t
 
 ## Setup
 
+Start by cloning the "clone" branch, this is where you will do the project and what will be sumbitted.
+
+```
+git clone 
+```
+
 <p>
 <strong>Please develop your code in a python virtual environment to help maintain consistency across all projects.</strong> <br>
 Assuming Python is installed on your PC, the following command should create a Python virtual environment in your current directory.
@@ -39,9 +45,8 @@ You can use any set of images to create a disparity map, but we recommend using 
 
 <br>
 
-## Submition ✅
-
+## Point Cloud 
 
 <br>
 
-## Point Cloud 
+## Submition ✅
