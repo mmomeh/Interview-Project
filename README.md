@@ -5,6 +5,7 @@
 Configurations, you made it to the secound round of the interview process. For this project you will be creating a disparity map then generating a point cloud from the disparity map.
 <br>
 <br>
+<br>
 </p>
 
 ## Setup
@@ -30,8 +31,12 @@ Please keep track of the packages you install in the virtual environment so you 
 pip install ...
 ```
 
+<br>
+
 ## Disparity Map
 
 You can use any set of images to create a disparity map, but we recommend using one of the [Middlebury 2014 Stereo Datasets](https://vision.middlebury.edu/stereo/data/scenes2014/)
+
+<br>
 
 ## Point Cloud 
