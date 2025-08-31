@@ -10,7 +10,7 @@ Configurations, you made it to the secound round of the interview process. For t
 ## Setup
 
 <p>
-Please develop your code in a python virtual environment to help maintain consistency across all projects. <br>
+<strong>Please develop your code in a python virtual environment to help maintain consistency across all projects.</strong> <br>
 Assuming Python is installed on your PC, the following command should create a Python virtual environment in your current directory.
 </p>
 
@@ -29,3 +29,6 @@ Please keep track of the packages you install in the virtual environment so you 
 ```
 pip install ...
 ```
+
+## Disparity Map
+
