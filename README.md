@@ -10,7 +10,7 @@ Configurations, you made it to the secound round of the interview process. For t
 
 ## Setup
 
-Start by cloning the "clone" branch, this is where you will do the project and what will be sumbitted.
+Start by cloning the 'clone' branch. All code should be contained here, as this is what will be submitted.
 
 ```
 git clone https://github.com/Ph-Dos/Interview-Project.git
