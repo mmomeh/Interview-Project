@@ -13,7 +13,7 @@ Configurations, you made it to the secound round of the interview process. For t
 Start by cloning the 'clone' branch. All code should be contained here, as this is what will be submitted.
 
 ```
-git clone https://github.com/Ph-Dos/Interview-Project.git
+git  clone --branch clone https://github.com/Ph-Dos/Interview-Project.git
 ```
 
 <br>
