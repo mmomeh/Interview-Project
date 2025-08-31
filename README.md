@@ -32,4 +32,4 @@ pip install ...
 
 ## Disparity Map
 
-You can use any set of images to create a disparity map from but we recommend using one of the [Middlebury 2014 Stereo Datasets](https://vision.middlebury.edu/stereo/data/scenes2014/)
+You can use any set of images to create a disparity map, but we recommend using one of the [Middlebury 2014 Stereo Datasets](https://vision.middlebury.edu/stereo/data/scenes2014/)
