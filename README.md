@@ -60,4 +60,21 @@ When you are done make a bash script that creates the disparity map from the two
 ## Submition ✅
 
 Once Task 2 is completed, read and complete the README.md included in the clone repo. <br>
-Finally, submit your work as a pull request to this repo.
+Finally, you need to submit your work as a pull request to this repo.
+
+<br>
+
+Make sure your in the clone branch, then stage all your updates. (if you haven't already)
+```
+git checkout clone
+```
+```
+git add .
+```
+Now commit then push your work back to git hub.
+```
+git commit -m "YOUR NAME"
+```
+```
+git push origin clone
+```
