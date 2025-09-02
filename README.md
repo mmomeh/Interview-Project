@@ -53,6 +53,8 @@ We recommend using one of the [Middlebury 2014 Stereo Datasets](https://vision.m
 After generating the disparity map from the two images, convert it into a 3D point cloud.
 When you are done make a bash script that creates the disparity map from the two images then generates the point cloud from the disparity map.
 
+<a href="https://asciinema.org/a/Bsi8wNmPKFnsUkxOD90YPHVdv" target="_blank"><img src="https://asciinema.org/a/Bsi8wNmPKFnsUkxOD90YPHVdv.svg" /></a>
+
 <br>
 
 ## Submition ✅
