@@ -10,7 +10,7 @@ Configurations, you made it to the secound round of the interview process. For t
 
 ## Setup ⚠️
 
-Start by forking this repo then cloning the 'clone' branch. All code should be contained here, as this is what will be submitted.
+Start by forking this repo then cloning the 'clone' branch to your machine. All code should be contained here, as this is what will be submitted.
 
 ```
 git  clone --branch clone https://github.com/YOUR_GIT_USER/Interview-Project.git
