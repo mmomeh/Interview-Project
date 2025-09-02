@@ -17,10 +17,14 @@ Start by forking this repo, be sure you fork the entire repo and not just main.
 Next clone the 'clone' branch, all code should be contained here as this is what will be submitted.
 
 ```
-git  clone --branch clone https://github.com/YOUR_GIT_USER/Interview-Project.git
+git clone --branch clone git@github.com:YOUR_GIT_USER/Interview-Project.git
 ```
 
 If you don't have a ssh key setup with git hub on your machine use this command.
+
+```
+git  clone --branch clone https://github.com/YOUR_GIT_USER/Interview-Project.git
+```
 
 <br>
 
