@@ -86,6 +86,6 @@ git push origin clone
 
 Now that your project is on Github click on the `Pull requests` tab in the repo and open a pull request.
 
-<image src="">
+<image src="Screenshot 2025-09-02 144906.png">
 
 Watch this [Video](https://www.youtube.com/watch?v=jRLGobWwA3Y) if you are confused.
