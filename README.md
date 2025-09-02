@@ -12,7 +12,7 @@ Configurations, you made it to the secound round of the interview process. For t
 
 Start by forking this repo, be sure you fork the entire repo and not just main.
 
-<image src="screenshot-02.png">
+<image src="screenshot02.png">
 
 <br>
 
