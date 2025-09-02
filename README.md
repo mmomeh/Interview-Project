@@ -59,5 +59,5 @@ When you are done make a bash script that creates the disparity map from the two
 
 ## Submition ✅
 
-Once Task 2 is completed, read and complete the README.md included in the clone repo.
+Once Task 2 is completed, read and complete the README.md included in the clone repo. <br>
 Finally, submit your work as a pull request to this repo.
