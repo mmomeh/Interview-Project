@@ -10,10 +10,10 @@ Configurations, you made it to the secound round of the interview process. For t
 
 ## Setup ⚠️
 
-Start by cloning the 'clone' branch. All code should be contained here, as this is what will be submitted.
+Start by forking this repo then cloning the 'clone' branch. All code should be contained here, as this is what will be submitted.
 
 ```
-git  clone --branch clone https://github.com/Ph-Dos/Interview-Project.git
+git  clone --branch clone https://github.com/YOUR_GITHUB_ACCOUNT/Interview-Project.git
 ```
 
 <br>
