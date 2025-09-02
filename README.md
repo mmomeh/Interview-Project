@@ -41,13 +41,17 @@ pip install ...
 
 <br>
 
-## Disparity Map
+## Task 1
 
-We recommend using one of the [Middlebury 2014 Stereo Datasets](https://vision.middlebury.edu/stereo/data/scenes2014/)
+Create a program that can take two images as an input, then creates a disparity map. <br>
+We recommend using one of the [Middlebury 2014 Stereo Datasets](https://vision.middlebury.edu/stereo/data/scenes2014/) for the images.
 
 <br>
 
-## Point Cloud 
+## Task 2 
+
+After generating the disparity map from the two images, convert it into a 3D point cloud.
+When you are done make a bash script that creates the disparity map from the two images then generates the point cloud from the disparity map.
 
 <br>
 
