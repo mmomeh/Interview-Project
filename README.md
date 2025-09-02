@@ -44,7 +44,7 @@ pip install ...
 ## Task 1
 
 Using python, create a program that can take two images as an input then creates a disparity map. <br>
-We recommend using one of the [Middlebury 2014 Stereo Datasets](https://vision.middlebury.edu/stereo/data/scenes2014/) for the images.
+We recommend using one of the [Middlebury 2014 Stereo Datasets](https://vision.middlebury.edu/stereo/data/scenes2014/) for the images and camera calibration data.
 
 <br>
 
