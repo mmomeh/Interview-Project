@@ -30,10 +30,8 @@ git clone --branch clone https://github.com/YOUR_GIT_USER/Interview-Project.git
 
 <br>
 
-<p>
-<strong>Please develop your code in a python virtual environment to help maintain consistency across all projects.</strong> <br>
+<p align="center" style="font-size: 24px;"><strong>Please develop your code in a python virtual environment to help maintain consistency across all projects.</strong><br></p>
 Assuming Python is installed on your PC, the following command should create a Python virtual environment in your current directory.
-</p>
 
 ```
 python3 -m venv env
