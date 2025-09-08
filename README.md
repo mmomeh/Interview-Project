@@ -94,8 +94,20 @@ git push origin clone
 
 <br>
 
-Now that your project is on Github click on the `Pull requests` tab in the repo and open a pull request.
+Now that your project has been pushed to clone branch click on the `Compare & pull request` button.
 
-<image src="screenshot01.png">
+<image src="screenshot04.png">
+
+The last thing you need to do is create a pull request to the clone branch. <br>
+
+**YOUR PULL REQUEST MUST HAVE THE FOLLOWING**
+
+  1. `base repository:` is set to **Ph-Dos/Interview-Project**
+  2. `base:` is set to **clone**
+  3. `head repository:` is set to **YOUR FORK** of the repo
+  4. `compare:` is set to **clone**
+  5. **title** is set to your name
+
+<image src="screenshot05.png">
 
 Watch this [Video](https://www.youtube.com/watch?v=jRLGobWwA3Y) if you are confused.
