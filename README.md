@@ -2,7 +2,7 @@
   <h2 align="center">Data Team Take Home</h2>
 </p>
 <p>
-Configurations, you made it to the secound round of the interview process. For this project you will be creating a disparity map then generating a point cloud from the disparity map.
+Congratulations, you made it to the secound round of the interview process. For this project you will be creating a disparity map then generating a point cloud from the disparity map.
 <br>
 <br>
 <br>
