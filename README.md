@@ -70,7 +70,7 @@ Once you're finished with the point cloud code, create a bash script that automa
 
 <br>
 
-## Submition ✅
+## Submit ✅
 
 Once Task 2 is completed, read and complete the README.md included in the clone repo. <br>
 Finally, you need to submit your work as a pull request to the clone branch in this repo.
